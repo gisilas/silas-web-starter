@@ -1,0 +1,26 @@
+{
+  "name": "silas-web-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisilas/silas-web-starter.git"
+  },
+  "author": "Silas Neuholz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gisilas/silas-web-starter/issues"
+  },
+  "homepage": "https://github.com/gisilas/silas-web-starter#readme",
+  "dependencies": {
+    "material-design-icons": "^3.0.1",
+    "modern-normalize": "^1.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.32.6"
+  }
+}
